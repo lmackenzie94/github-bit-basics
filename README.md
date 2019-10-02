@@ -1,4 +1,4 @@
-# bit-react-tutorial
+# GitHub Bit w/ React Notes
 
 Initialize Bit Workspace: <code>init --package-manager yarn</code>
 
